@@ -35,5 +35,6 @@ namespace HormonaDeCrecimiento.App.Dominio
         // Patrones de crecimiento del paciente
         public List<PatronesDeCrecimiento> Patrones{get; set;}
 
+            //Esto si esta funcionando!!
     }
 }
